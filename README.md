@@ -1,5 +1,5 @@
 
-[![Ali Bougarne's github stats](https://github-readme-stats.vercel.app/api?username=alibougarne&show_icons=true&count_private=true
+[![Ali Bougarne's github stats](https://github-readme-stats.vercel.app/api?username=alibougarne&show_icons=true&theme=vue&count_private=true
 )](https://github.com/alibougarne/github-readme-stats)
 <!--
 ### Hi there 👋
