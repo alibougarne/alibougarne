@@ -1,3 +1,17 @@
+### Languages
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=JavaScript&logoColor=ddc508)](https://github.com/alibougarne?tab=repositories&q=&type=&language=javascript)
+[![Java](https://img.shields.io/badge/-Java-fff?style=flat-square&logo=Java&logoColor=007396)](https://github.com/alibougarne?tab=repositories&q=&type=&language=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=TypeScript&logoColor=007ACC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=PostgreSQL&logoColor=336791)
+
+### Technologies
+![Spring](https://img.shields.io/badge/-Spring%20boot-fff?style=flat-square&logo=Spring)
+![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-fff?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=node.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-fff?style=flat-square&logo=vuetify)
+![Quasar](https://img.shields.io/badge/-Quasar-fff?style=flat-square&logo=quasar)
 
 [![Ali Bougarne's github stats](https://github-readme-stats.vercel.app/api?username=alibougarne&show_icons=true&theme=vue&count_private=true
 )](https://github.com/alibougarne/github-readme-stats)
