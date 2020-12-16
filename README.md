@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-fff?style=flat-square&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-fff?style=flat-square&logo=NestJS&logoColor=red)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-fff?style=flat-square&logo=vuetify&logoColor=007ACC)
 ![Quasar](https://img.shields.io/badge/-Quasar-fff?style=flat-square&logo=quasar&logoColor=336791)
 
