@@ -3,7 +3,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat-square&logo=JavaScript&logoColor=ddc508)](https://github.com/alibougarne?tab=repositories&q=&type=&language=javascript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?style=flat-square&logo=TypeScript&logoColor=007ACC)](https://github.com/alibougarne?tab=repositories&q=&type=&language=typescript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=PostgreSQL&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=MongoDB&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=MongoDB&logoColor=47A248) 
 
 ### Technologies
 ![Spring](https://img.shields.io/badge/-Spring%20boot-fff?style=flat-square&logo=Spring)
