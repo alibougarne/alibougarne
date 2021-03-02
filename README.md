@@ -20,7 +20,7 @@
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=alibougarne.alibougarne" alt="Visitors">                     
 </p>
 <!--
-### Hi there. 👋 
+### Hi there.  👋 
 
 **alibougarne/alibougarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Ali Bougarne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alibougarne)](https://github.com/alibougarne/dentali)
